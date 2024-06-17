@@ -1,0 +1,356 @@
+.home {
+    background-image: url(images/Hero\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 102vh;
+  }
+  
+  .Topinfobar {
+    height: Hug (64px)px;
+    padding: 16px 120px 16px 120px;
+    gap: 0px;
+    border: 0px 0px 1px 0px;
+    justify-content: space-between;
+    opacity: 0px;
+    margin-top: -15px;
+  }
+  .top1 {
+    width: Hug (349px)px;
+  height: Hug (16px)px;
+  gap: 40px;
+  opacity: 0px;
+  
+  }
+  
+  .top1 p {
+    color: #F5F5F5;
+  }
+  .p2 {
+    margin-left: 165px;
+    margin-top: -37px;
+  }
+  
+  .frame5 {
+    margin-left: 700px;
+    margin-top: -40px;
+  }
+   .line1 {
+  width: 24px;
+  height: 0px;
+  opacity: 0.4;
+  border: 1px solid #F5F5F5;
+  transform: rotate(90deg);
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 136px;
+  margin-top: -20px;
+   }
+  
+   .li {
+    margin-left: 186px;
+    margin-top: -29px;
+   }
+  .fb {
+    margin-right: 16px;
+  }
+  .ln {
+    margin-right: 16px;
+  }
+  .su {
+    color: #F5F5F5;
+    font-weight: 400;
+    size: 16px;
+    line-height: 16px;
+    top: 22px;
+    height: Hug(32px)px;
+    width: Hug(92px)px;
+    border-radius: 40px;
+    border: 1px solid #E0B100;
+    padding: 8px, 16px, 8px, 16px;
+    gap: 8px;
+    background-color: transparent;
+    margin-left: 246px;
+    position: absolute;
+  }
+
+  .su:hover{
+    cursor: pointer;
+  }
+  
+  .line2 {
+    width: 24px;
+    height: 0px;
+    opacity: 0.4;
+    border: 1px solid #F5F5F5;
+    transform: rotate(90deg);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-left: 336px;
+    margin-top: -25px;
+     }
+  
+     .p3 {
+      margin-left: 396px;
+      margin-top: -28px;
+     }
+  
+     .dd {
+      margin-left: 431px;
+      margin-bottom: 33px;
+      margin-top: -86px;
+     }
+  
+     .logo {
+      margin-top: 10px;
+      width: Hug (177px)px;
+      height: Hug (40px)px;
+      gap: 8px;
+      opacity: 0px;
+     }
+  
+     a {
+      text-decoration: none;
+      color: #F5F5F5;
+     }
+  
+     .navitems {
+      height: Hug (18px)px;
+      opacity: 0px;
+      margin-top: -35px;
+      margin-left: 620px;
+     }
+  
+     .ab {
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+     }
+     .ex {
+      margin-left: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+     }
+     .bk {
+      margin-left: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+     }
+     .ft {
+      margin-left: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+     }
+      .cu {
+      margin-left: 40px;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 18px;
+      text-align: left;
+      }
+     .navbar {
+    height: Hug (88px)px;
+    top: 64px;
+    justify-items: space-between;
+    opacity: 0px;
+    margin-top: -50px;
+     }
+    .hr1 {
+      border-top: 1px solid #888;
+      width: 1497px;
+      margin-left: -270px;
+      margin-top: 30px;
+    }
+  
+    .hd {
+      width: 828px;
+      height: 80px;
+      top: 232px;
+      left: 120px;
+      gap: 0px;
+      opacity: 0px;
+      margin-bottom: -50px;
+      margin-top: -10px;
+    }
+    .hd1 {
+      font-size: 60px;
+      font-weight: 600;
+      line-height: 80px;
+      text-align: left;
+      color: #F5F5F5;
+      margin-left: -20vh;
+    }
+    .Description {
+      width: 828px;
+    height: 104px;
+    top: 352px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+      margin-top: 60px;
+    }
+  
+    .pr {
+      
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: left;
+      color: rgba(245, 245, 245, 1);
+    }
+  
+    .loc {
+      margin-left: -5px;
+    }
+    .da {
+      
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      text-align: left;
+      color: rgba(245, 245, 245, 1);
+      margin-top: 40px;
+    }
+  
+    input {
+      width: 265px;
+    }
+    .ip1 {
+      width: Fill (402px)px;
+      gap: 16px;
+      border: none;
+      transition: none;
+      opacity: 0px;
+      background-color: transparent;
+      color: #F5F5F5;
+    }
+    .tb {
+      margin-top: -29px;
+      margin-left: 30px;
+    }
+  
+    .hr2 {
+      width: 300px;
+      border-top: 1px solid #888;
+      margin-left: -30px;
+    }
+  
+    .da1 {
+      
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      text-align: left;
+      color: rgba(245, 245, 245, 1);
+      margin-top: 40px;
+    }
+  
+    .ip2 {
+      width: Fill (480px)px;
+      gap: 16px;
+      border: none;
+      opacity: 0px;
+      background-color: transparent;
+      color: #F5F5F5;
+    }
+    .ip1:focus,.ip2:focus,.ip3:focus{
+      outline: none;
+    }
+    .tb1 {
+      margin-top: -29px;
+      margin-left: 30px;
+    }
+  
+    .hr3 {
+      width: 300px;
+      border-top: 1px solid #888;
+      margin-left: -30px;
+    }
+  
+    .loc1 {
+      margin-left: -5px;
+    }
+  
+    .aa {
+      margin-left: 320px;
+      margin-top: -110px;
+    }
+  
+    .hr2 {
+      width: 300px;
+      border-top: 1px solid #888;
+      margin-left: -30px;
+    }
+  
+    .da2 {
+      
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      text-align: left;
+      color: rgba(245, 245, 245, 1);
+      margin-top: 40px;
+    }
+  
+    .ip3 {
+      width: Fill (402px)px;
+      gap: 16px;
+      border: none;
+      opacity: 0px;
+      background-color: transparent;
+      color: #F5F5F5;
+    }
+    .tb2 {
+      margin-top: -29px;
+      margin-left: 30px;
+    }
+  
+    .hr4 {
+      width: 300px;
+      border-top: 1px solid #888;
+      margin-left: -30px;
+    }
+     .all {
+      margin-top: -30px;
+     }
+  
+     .syf {
+      color: #F5F5F5;
+      font-weight: 400;
+      size: 16px;
+      line-height: 16px;
+      height: Hug(48px)px;
+      width: Hug(222px)px;
+      border-radius: 40px;
+      border: 1px solid #E0B100;
+      padding: 8px, 16px, 8px, 16px;
+      gap: 8px;
+      background-color: transparent;
+      margin-left: 470px;
+      margin-top: 20px;
+      position: absolute;
+     }
+
+     .syf:hover {
+      cursor: pointer;
+     }
+  
+     .syf1 {
+      width: 142px;
+      height: 16px;
+      gap: 0px;
+      opacity: 0px;
+     }
+
+@media screen {
+  
+}

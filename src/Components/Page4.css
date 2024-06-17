@@ -1,0 +1,130 @@
+.sub {
+    width: 95vh;
+    height: 260px;
+    top: 2833px;
+    margin-top: 60px;
+    margin-left: 90px;
+    padding: 80px 284px 80px 284px;
+    gap: 0px;
+    border-radius: 40px 40px 40px 40px;
+    opacity: 0px;
+    background: rgba(224, 177, 0, 1);
+}
+
+.sub1 {
+    left: 284px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 30px;
+    font-weight: 640;
+    line-height: 62.4px;
+    text-align: center;
+    color: rgba(20, 30, 56, 1);
+    margin-top: -40px;
+}
+
+.sub2{
+    width: 686px;
+    height: 64px;
+    top: 244px;
+    margin-left: -50px;
+    margin-top: -20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+.sub3{
+    margin-top: -50px;
+    margin-left: 70px;
+}
+
+.efill {
+    height: 80px;
+    width: 480px;
+    background: rgba(245, 245, 245, 1);
+    margin-left: 50px;
+    margin-top: 40px;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.em2 {
+    margin-top: 30px;
+    margin-bottom: -3px;
+    margin-left: 35px;
+
+}
+
+.hr6{
+    width: 280px;
+    margin-left: 35px;
+    margin-top: -0.5px;
+    border-bottom: 1px solid rgba(20, 30, 56, 1);
+}
+
+.em1:focus {
+    outline: none;
+}
+
+.em6 {
+    margin-top: -20px;
+    margin-left: -100px;
+}
+
+.em1 {
+    width: 245px;
+    margin-top: -10px;
+    margin-left: 170px;
+    border: none;
+    height: 25px;
+    background-color: rgba(245, 245, 245, 1);
+}
+.btn4 {
+    margin-top: -30px;
+    margin-left: 300px;
+}
+
+.btun4:hover{
+    cursor: pointer;
+}
+.btun4 {
+    height: 30px;
+    width: 15vh;
+    gap: 8px;
+    border-radius: 14px 14px 14px 14px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(224, 177, 0, 1);
+    color: rgba(245, 245, 245, 1);
+    background: rgba(224, 177, 0, 1);
+    text-align: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.fin {
+    height: 40px;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+
+.log2{
+    margin-left: 88vh;
+    margin-top: 15vh;
+}
+
+.fot,.fot1 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+.fot {
+    margin-top: 20px;
+    margin-bottom: -25px;
+}
+

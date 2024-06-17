@@ -1,0 +1,114 @@
+.hd {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color:rgba(20, 30, 56, 1);
+    margin-top: 10vh;
+    margin-left: 120px;
+}
+
+.hdr {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color: rgba(20, 30, 56, 1);
+    margin-left: 170px;
+    margin-top: -80px;
+}
+
+.hd2 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color:rgba(20, 30, 56, 1);
+    margin-left: 120px;
+}
+
+.hd3 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    margin-left: 170px;
+    margin-top: -57px;
+    color: rgba(20, 30, 56, 1);
+
+}
+
+.hd4 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    color:rgba(20, 30, 56, 1);
+    margin-left: 120px;
+}
+
+.hd5 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32px;
+    text-align: left;
+    margin-top: -57px;
+    margin-left: 170px;
+    color: rgba(20, 30, 56, 1);
+}
+
+.parag {
+    margin-left: 170px;
+    font-size: 14px;
+    margin-top: -15px;
+}
+.parag1 {
+    margin-left: 170px;
+    font-size: 14px;
+    margin-top: -15px;
+}
+.parag2 {
+    margin-left: 170px;
+    font-size: 14px;
+    margin-top: -15px;
+}
+
+.hd6 {
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+    color: rgba(20, 30, 56, 1);
+    margin-left: 145vh;
+    margin-top: -57vh;
+}
+
+.btn {
+    width: Hug (125px)px;
+    height: Hug (44px)px;
+    padding: 16px 40px 16px 40px;
+    gap: 8px;
+    border-radius: 24px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(224, 177, 0, 1);
+    background: rgba(224, 177, 0, 1);
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+    text-align: left;
+    color: rgba(245, 245, 245, 1);
+    margin-left: 176vh;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.ilust {
+    height: 60vh;
+    margin-left: 90vh;
+    width: 80vh;
+}
