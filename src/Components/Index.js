@@ -1,15 +1,15 @@
 import React from 'react'
-import './Landing.css'
-import fb from './images/ic_baseline-facebook.png'
-import ln from './images/entypo-social_linkedin-with-circle.png'
-import tw from './images/entypo-social_twitter-with-circle.png'
-import dd from './images/majesticons_chevron-down.png'
-import logo from './images/Logo.png'
-import map from './images/mdi_location.png'
-import cl from './images/uis_calender.png'
-import pa from './images/material-symbols_person.png'
+import './Index.css'
+import fb from './images/ic_baseline-facebook.png';
+import ln from './images/entypo-social_linkedin-with-circle.png';
+import tw from './images/entypo-social_twitter-with-circle.png';
+import dd from './images/majesticons_chevron-down.png';
+import logo from './images/Logo.png';
+import map from './images/mdi_location.png';
+import cl from './images/uis_calender.png';
+import pa from './images/material-symbols_person.png';
 
-const Landing=()=> {
+const Index=()=> {
   return (
     <div className='home'>
       <div className='Topinfobar'>
@@ -85,4 +85,4 @@ const Landing=()=> {
   )
 }
 
-export default Landing
+export default Index

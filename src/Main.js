@@ -1,5 +1,5 @@
 import React from 'react'
-import Landing from './Components/Landing'
+import Index from './Components/Index'
 import Page2 from './Components/Page2'
 import Page3 from './Components/Page3'
 import Page4 from './Components/Page4'
@@ -8,7 +8,7 @@ import Footer from './Components/Footer'
 function Main() {
   return (
     <div>
-        <Landing />
+        <Index />
         <Page2 />
         <Page3 />
         <Page4 />
